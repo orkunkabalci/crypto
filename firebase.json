@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "crypto-app-main",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
